@@ -1,6 +1,0 @@
-[submodule "Twitter_Frontend"]
-	path = Twitter_Frontend
-	url = https://github.com/BhumitRohilla/Twitter_Frontend.git
-[submodule "Twitter_Backend"]
-	path = Twitter_Backend
-	url = https://github.com/BhumitRohilla/Twitter_Backend.git
